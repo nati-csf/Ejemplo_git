@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #464646;
+  }
+  
+  header {
+    background: linear-gradient(to right, #fea94f, #e43200);
+    color: white;
+    text-align: center;
+    padding: 4rem 2rem;
+  }
+  
+  header .boton {
+    display: inline-block;
+    margin-top: 1.5rem;
+    padding: 0.75rem 1.5rem;
+    background-color: white;
+    color: #d25c22;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .servicios {
+    padding: 2rem;
+    background-color: #f7f7f7;
+    text-align: center;
+  }
+  
+  .tarjeta {
+    display: inline-block;
+    width: 250px;
+    margin: 1rem;
+    padding: 1rem;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  
+  
